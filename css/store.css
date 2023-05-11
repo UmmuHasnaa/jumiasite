@@ -1,0 +1,36 @@
+.head1{
+    padding-left: 30px;
+}
+.storecontainer{
+    padding: 30px;
+}
+.head1 a{
+    color: #333;
+}
+.head2 h1{
+    box-shadow: 0 .5rem 1rem rgb(192, 187, 187);
+    margin-top: 5px; text-align: center; margin-bottom: 10px; 
+    border-radius: 10px;
+}
+.lim{
+    display: flex; gap:70%;
+    padding-left:20px; background-color:orangered; color: white;
+    padding: 10px; border-radius: 10px;
+}
+.limstore{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.limstore .storeimg{
+    box-shadow: 0 .5rem 1rem rgb(192, 187, 187);
+}
+.limstore .storeimg img{
+    width: 200px; height: 200px;
+}
+.limstore .storeimg h3,h4{
+    text-align: center;
+}
+.limstore .storeimg h3{
+    color: orange;
+}
