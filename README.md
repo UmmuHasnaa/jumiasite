@@ -1,5 +1,6 @@
 # jumiasite!
 The Index page....
+![Screenshot from 2023-05-10 14-03-37](https://github.com/UmmuHasnaa/jumiasite/assets/105558888/88c62b2c-7eaf-45dc-94cd-33f95ebd85e9)
 
 [Screenshot from 2023-05-10 14-03-37](https://github.com/UmmuHasnaa/jumiasite/assets/105558888/b5f8e4a0-3768-4ac4-bacf-3216515f1f32)
 
